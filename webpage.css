@@ -1,0 +1,557 @@
+.one{
+    position: relative;
+    bottom: 0px;
+}
+.two
+{
+    position: relative;
+    top: 47px;
+}
+.three{
+    position: relative;
+    top: 149px;
+}
+.four{
+    position: relative;
+    top: 196px;
+}
+.five{
+    position: relative;
+    top: 235px;
+}
+.six{
+    position: relative;
+    top: 288px;
+}
+.seven{
+    position: relative;
+    top: 15px;
+}
+.eight{
+    position: relative;
+    top: 320px;
+}
+.nine{
+    position: relative;
+    top: 380px;
+}
+.ten{
+    position: relative;
+    top: 434px;
+}
+.quick{
+    border: 1px solid orange;
+    width: 135px;
+    height: 22px;
+    text-align: center;
+    padding: 8px;
+    position: relative;
+    top: -23px;
+    border-radius: 15px;
+    color:orange;
+ 
+}
+.add{
+    position: relative;
+    bottom: 27px;
+    left: 9px;
+    color:orange;
+}
+.logo{
+    width: 109px;
+    height: 113px;
+    position: relative;
+    bottom: 23px;
+   }
+.container{
+    position: relative;
+    left: 103px;
+}
+.pic{
+    width: 79px;
+    height: 83px;
+}
+.dr{
+    position: relative;
+    top: -28px;
+    font-size: 24px;
+}
+.word{
+    position: relative;
+    top: -36px;
+}
+.child{
+    position: relative;
+    top: -48px;
+     }
+     .dashboard{
+         padding: 11px;
+     }
+     .app{
+        padding: 13px;
+     }
+     .not{
+        padding: 17px;
+     }
+     .tra{
+         padding:11px;
+     }
+     .pa{
+        padding: 25px;
+     }
+.ava{
+    padding: 15px;
+}
+.re{
+    padding: 19px;
+}
+.in{
+    padding: 16px;
+}
+.set{
+    padding: 17px;
+}
+.sup{
+    padding: 10px;
+}
+.hr{
+    width: 144px;
+    position: relative;
+    right: 691px;
+}
+.container2{
+    position: relative;
+    bottom: 625px;
+    left: 325px;
+}
+.welcome{
+
+}
+.a{
+
+}
+.se{
+    position: relative;
+    bottom: 35px;
+    left: 850px;
+}
+.filter{
+    position: relative;
+    bottom: 71px;
+    left: 1046px;
+}
+.upcoming{
+    position: relative;
+}
+.incomplete{
+    position: relative;
+    position: relative;
+    bottom: 34px;
+    left: 356px;
+}
+.Completed{
+    position: relative;
+    position: relative;
+    bottom: 68px;
+    left: 693px;
+}
+.pati{
+    position: relative;
+    bottom: 48px;
+}
+.location{
+    position: relative;
+    bottom: 82px;
+    left: 248px;
+}
+.reason{
+    position: relative;
+    bottom: 116px;
+    left: 403px;
+}
+.date{
+    position: relative;
+    position: relative;
+    bottom: 150px;
+    left: 641px;
+}
+
+.action{    
+    position: relative;
+    bottom: 184px;
+    left: 1050px;
+}
+.man1{
+    clip-path: circle();
+    width: 67px;
+    position: relative;
+    bottom: 181px;
+    right: 11px;
+}
+.isaac{
+    position: relative;
+    bottom: 233px;
+    left: 53px;
+}
+.amman{
+    position: relative;
+    bottom: 267px;
+    left: 246px;
+}
+.Obesity{
+    position: relative;
+    bottom: 300px;
+    left: 351px;
+}
+.feb{
+    position: relative;
+    bottom: 335px;
+    left: 657px;
+}
+.man2{
+    clip-path: circle();
+    width: 67px;
+    position: relative;
+    bottom: 321px;
+    right: 11px;
+}
+.hr1{
+    position: relative;
+    bottom: 327px;
+}
+.hr2{
+    position: relative;
+    bottom: 187px;
+}
+.rio{
+    position: relative;
+    bottom: 373px;
+    left: 53px;
+}
+.america{
+    position: relative;
+    bottom: 408px;
+    left: 246px;
+}
+.Back{
+    position: relative;
+    bottom: 442px;
+    left: 351px;
+}
+.mar{
+    position: relative;
+    bottom: 476px;
+    left: 657px;
+}
+.man3{
+    clip-path: circle();
+    width: 67px;
+    position: relative;
+    bottom: 321px;
+    right: 11px;
+}
+.bretlee{
+    position: relative;
+    bottom: 373px;
+    left: 53px;
+}
+.aus{
+    position: relative;
+    bottom: 408px;
+    left: 246px;
+}
+.heart{
+    position: relative;
+    bottom: 442px;
+    left: 351px;
+}
+.apr{
+    position: relative;
+    bottom: 476px;
+    left: 657px;
+}
+.hr3{
+    position: relative;
+    bottom: 465px;
+}
+.child3{
+    position: relative;
+    bottom: 137px;
+}
+.man4{
+    clip-path: circle();
+    width: 67px;
+    position: relative;
+    bottom: 321px;
+    right: 11px;
+}
+.pointing{
+    position: relative;
+    bottom: 373px;
+    left: 53px;
+}
+.Newz{
+    position: relative;
+    bottom: 408px;
+    left: 246px;
+}
+.liver{
+    position: relative;
+    bottom: 442px;
+    left: 351px;
+}
+.may{
+    position: relative;
+    bottom: 476px;
+    left: 657px;
+}
+.child4{
+    position: relative;
+    bottom: 138px;
+}
+.hr4{
+    position: relative;
+    bottom: 465px;
+}
+.man5{
+    clip-path: circle();
+    width: 67px;
+    position: relative;
+    bottom: 321px;
+    right: 11px;
+}
+.john{
+    position: relative;
+    bottom: 373px;
+    left: 53px;
+}
+.Pak{
+    position: relative;
+    bottom: 408px;
+    left: 246px;
+}
+.eye{
+    position: relative;
+    bottom: 442px;
+    left: 351px;
+}
+.june{
+    position: relative;
+    bottom: 476px;
+    left: 657px;
+}
+.hr5{
+    position: relative;
+    bottom: 468px;
+}
+.child5{
+    position: relative;
+    bottom: 132px;  
+}
+.man6{
+    clip-path: circle();
+    width: 67px;
+    position: relative;
+    bottom: 321px;
+    right: 11px;
+}
+.russel{
+    position: relative;
+    bottom: 373px;
+    left: 53px;
+}
+.wes{
+    position: relative;
+    bottom: 408px;
+    left: 246px;
+}
+.head{
+    position: relative;
+    bottom: 442px;
+    left: 351px;
+}
+.july{
+    position: relative;
+    bottom: 476px;
+    left: 657px;
+}
+.hr6{
+    position: relative;
+    bottom: 471px;
+}
+.child6{
+    position: relative;
+    bottom: 139px;
+}
+.man7{
+    clip-path: circle();
+    width: 67px;
+    position: relative;
+    bottom: 321px;
+    right: 11px;
+}
+.sachin{
+    position: relative;
+    bottom: 373px;
+    left: 53px;
+}
+.Ind{
+    position: relative;
+    bottom: 408px;
+    left: 246px;
+}
+.hair{
+    position: relative;
+    bottom: 442px;
+    left: 351px;
+}
+.august{
+    position: relative;
+    bottom: 476px;
+    left: 657px;
+}
+.child7{
+    position: relative;
+    bottom: 140px;
+}
+}
+.hr7{
+    position: relative;
+    bottom: 468px;
+}
+.hr8{
+    position: relative;
+    bottom: 674px;
+}
+.man8{
+    clip-path: circle();
+    width: 67px;
+    position: relative;
+    bottom: 321px;
+    right: 11px;
+}
+.kholi{
+    position: relative;
+    bottom: 373px;
+    left: 53px;
+}
+.Ind{
+    osition: relative;
+    bottom: 408px;
+    left: 246px;
+}
+.skin{
+    position: relative;
+    bottom: 442px;
+    left: 351px;
+}
+.sep{
+    position: relative;
+    bottom: 476px;
+    left: 657px;
+}
+.child9{
+    position: relative;
+    bottom: 278px;
+}
+.hr10{
+    position: relative;
+    bottom: 537px;
+}
+.man9{
+    clip-path: circle();
+    width: 67px;
+    position: relative;
+    bottom: 321px;
+    right: 11px;
+}
+.Dhoni{
+    position: relative;
+    bottom: 373px;
+    left: 53px;
+}
+.leo{
+    position: relative;
+    bottom: 408px;
+    left: 246px;
+}
+.hand{
+    position: relative;
+    bottom: 442px;
+    left: 351px;
+}
+.oct{
+    position: relative;
+    bottom: 476px;
+    left: 657px;
+}
+.child11{
+    position: relative;
+    bottom: 142px;
+}
+.hr11{
+    position: relative;
+    bottom: 675px;
+}
+.hov{
+    position: relative;
+    bottom: 615px;
+}
+.book{
+    position: relative;
+    bottom: 367px;
+    left: 1061px;
+}
+.ring{
+    position: relative;
+    left: 21px;
+}
+.book1{
+
+}
+.ring1{
+
+}
+.book2{
+
+}
+.ring2{
+    
+}
+.book3{
+
+}
+.ring3{
+    
+}
+.book4{
+
+}
+.ring4{
+    
+}
+.book5{
+
+}
+.ring5{
+    
+}
+.book6{
+
+}
+.ring6{
+    
+}
+.book7{
+
+}
+.ring7{
+    
+}
+.book8{
+
+}
+.ring8{
+
+    
+}
